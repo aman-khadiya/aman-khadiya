@@ -1,32 +1,41 @@
+<div align="center">
+
 # Hi 👋, I'm Aman Khadiya
 
-## ☁️ Cloud Support Engineer
+### ☁️ Cloud Support Engineer
 
-I'm an IT professional transitioning into Cloud Computing with hands-on experience in **Amazon Web Services (AWS)** and **Microsoft Azure**.
+Building practical cloud skills through **AWS**, **Microsoft Azure**, **Linux**, and real hands-on labs.
 
-I have completed **81+ practical cloud labs** using **KodeKloud Engineer**, **AWS Free Tier**, and the **Azure Portal**.
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-I enjoy building cloud infrastructure, solving technical problems, and continuously learning modern cloud technologies.
+</div>
 
 ---
 
-## 🚀 About Me
+# 💼 About Me
 
-- 🌍 Based in Indore, Madhya Pradesh, India
-- ☁️ Learning AWS & Microsoft Azure
-- 🐧 Linux & Networking Enthusiast
 - 💻 2+ Years of IT Experience
-- 🎯 Goal: Cloud Support Engineer / Associate Cloud Engineer
+- ☁️ Hands-on experience with AWS & Microsoft Azure
+- 🚀 Completed **100+ Hands-on Cloud Labs**
+- 🐧 Linux & Networking Enthusiast
+- 📚 Building practical Cloud Infrastructure projects
+- 🎯 Open to **Cloud Support Engineer**, **Associate Cloud Engineer**, and **Cloud Operations Engineer** roles
 
 ---
 
-## 🛠️ Technical Skills
+# ☁️ Technical Skills
 
-### Cloud
+## Cloud Platforms
+
 - Amazon Web Services (AWS)
 - Microsoft Azure
 
-### AWS Services
+## AWS
+
 - EC2
 - IAM
 - VPC
@@ -37,37 +46,60 @@ I enjoy building cloud infrastructure, solving technical problems, and continuou
 - CloudWatch
 - ECS
 - ECR
+- Route 53
+- Elastic IP
+- VPC Peering
+- Auto Scaling
 
-### Azure
-- Virtual Machines
-- VNet
-- NSG
+## Azure
+
+- Azure Virtual Machines
+- Azure Virtual Network
+- Network Security Groups
+- Azure Blob Storage
 - Azure SQL
-- Blob Storage
 - Azure CLI
-- Key Vault
+- Azure Container Registry
+- Azure Key Vault
+- Azure Monitor
+- Application Gateway
 
-### Operating System
-- Ubuntu Linux
+## Linux
 
-### Networking
-- TCP/IP
-- DNS
-- HTTP/HTTPS
-- Load Balancer
-
----
-
-## 📜 Certifications
-
-- AWS Basics – KodeKloud
-- Linux for Absolute Beginners – KodeKloud
-- TCS iON Career Edge
-- Sololearn Web Development
+- Ubuntu
+- SSH
+- Nginx
+- User Management
+- File Permissions
+- Networking
 
 ---
 
-## 📫 Connect With Me
+# 📂 Featured Repository
 
-- LinkedIn: https://linkedin.com/in/aman-khadiya
-- Email: info.amankhadiya@gmail.com
+## ☁️ Cloud Labs Portfolio
+
+📌 Practical documentation of AWS, Azure, and Linux hands-on labs.
+
+➡️ **https://github.com/aman-khadiya/cloud-labs**
+
+---
+
+# 📜 Certifications
+
+- ✅ AWS Basics — KodeKloud
+- ✅ Linux for Absolute Beginners — KodeKloud
+- ✅ TCS iON Career Edge
+- ✅ Sololearn Web Development
+
+---
+
+# 📫 Connect
+
+📧 **Email**
+
+info.amankhadiya@gmail.com
+
+🔗 **LinkedIn**
+
+https://linkedin.com/in/aman-khadiya
