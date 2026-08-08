@@ -177,9 +177,9 @@ A growing collection of hands-on AWS and Azure cloud labs with practical impleme
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aman-khadiya&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="./profile/stats.svg" alt="GitHub Statistics" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-khadiya&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="./profile/top-langs.svg" alt="Most Used Languages" height="180" />
 
 </div>
 
