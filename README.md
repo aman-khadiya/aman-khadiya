@@ -199,7 +199,7 @@ A growing collection of hands-on AWS and Azure cloud labs with practical impleme
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aman-khadiya/aman-khadiya/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/aman-khadiya/aman-khadiya/gh-pages/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
